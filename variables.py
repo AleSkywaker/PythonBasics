@@ -1,0 +1,3 @@
+### VARIABLES ###
+
+nombre = "Alex"
