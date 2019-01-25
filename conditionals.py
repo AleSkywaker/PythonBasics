@@ -1,4 +1,4 @@
-x = 5
+x = 20
 
 if x > 30:
     print(f"{x} es mayor que 30")
