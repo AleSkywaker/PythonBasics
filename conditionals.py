@@ -15,4 +15,7 @@ z = 25
 if z > 20 and z <= 30:
     print(f"{z} esta entre 10 y 20")
 
+if z > 20 or z > 50:
+    print(f"{z} es es mayor que 20 o mayor que 50")
+
     
