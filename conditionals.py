@@ -11,4 +11,8 @@ elif x == 30:
 else:
     print(f"{x} es menor que 40")
 
+z = 25
+if z > 20 and z <= 30:
+    print(f"{z} esta entre 10 y 20")
+
     
