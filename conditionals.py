@@ -18,4 +18,7 @@ if z > 20 and z <= 30:
 if z > 20 or z > 50:
     print(f"{z} es es mayor que 20 o mayor que 50")
 
+if (not(x == z)):
+    print("x no es igual que z")
+
     
