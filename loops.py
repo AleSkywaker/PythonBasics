@@ -1,5 +1,6 @@
-comida = ["banana", "fresas", "yogurt", "arroz"]
+alimentos = ["banana", "fresas", "yogurt", "arroz"]
+
+for alimento in alimnetos:
+    print(alimento)
 
 
-print(comida[0])
-print(comida[1])
