@@ -1,6 +1,6 @@
 alimentos = ["banana", "fresas", "yogurt", "arroz"]
 
-for alimento in alimnetos:
+for alimento in alimentos:
     print(alimento)
 
 
