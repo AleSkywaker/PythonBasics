@@ -11,4 +11,6 @@ for numero in range(1,9):
     print(numero)
 
 for letra in "Hello":
+    if letra == "l":
+        continue
     print(letra)
