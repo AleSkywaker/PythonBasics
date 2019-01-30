@@ -14,3 +14,11 @@ for letra in "Hello":
     if letra == "l":
         continue
     print(letra)
+
+# bucle while
+
+contador = 8
+
+while contador <= 10:
+    print(contador)
+    contador = contador + 1
