@@ -1,6 +1,7 @@
 alimentos = ["banana", "fresas", "yogurt", "arroz"]
 
 for alimento in alimentos:
-    print(alimento)
+    if alimento == "banana":
+        print("tienes que comprar " + alimento)
 
 
