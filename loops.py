@@ -5,5 +5,7 @@ for alimento in alimentos:
         print("tienes que comprar " + alimento)
     print(alimento)
 
-for numero range(1,9):
+for numero in range(1,9):
+    if numero == 5:
+        break
     print(numero)
