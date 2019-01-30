@@ -9,3 +9,6 @@ for numero in range(1,9):
     if numero == 5:
         break
     print(numero)
+
+for letra in "Hello":
+    print(letra)
